@@ -1,17 +1,25 @@
 {
-	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
-	"FriendlyName": "WasteShielding",
-	"Description": "",
-	"Category": "Other",
-	"CreatedBy": "kiligir",
-	"CreatedByURL": "",
-	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "",
-	"CanContainContent": true,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
-	"Installed": false
+  "FileVersion": 3,
+  "SemVersion": "1.0.9",
+  "Version": 1,
+  "VersionName": "1.0.9",
+  "FriendlyName": "WasteShielding",
+  "Description": "",
+  "Category": "Modding",
+  "CreatedBy": "kiligir#3438",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Plugins": [
+    {
+      "Name": "SML",
+      "Enabled": true,
+      "SemVersion": "^3.2.0"
+    }
+  ]
 }
