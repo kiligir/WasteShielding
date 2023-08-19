@@ -1,12 +1,12 @@
 {
   "FileVersion": 3,
-  "SemVersion": "2.1.0",
+  "SemVersion": "2.1.1",
   "Version": 2,
-  "VersionName": "2.1.0",
+  "VersionName": "2.1.1",
   "FriendlyName": "WasteShielding",
   "Description": "",
   "Category": "Modding",
-  "CreatedBy": "kiligir#3438",
+  "CreatedBy": "kiligir",
   "CreatedByURL": "",
   "DocsURL": "",
   "MarketplaceURL": "",
@@ -19,7 +19,7 @@
     {
       "Name": "SML",
       "Enabled": true,
-      "SemVersion": "^3.4.1"
+      "SemVersion": "^3.5.0"
     }
   ]
 }
