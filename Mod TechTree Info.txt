@@ -1,0 +1,70 @@
+==== OLD TECH TREE LINK
+https://i.imgur.com/i7T0a0X.jpg
+
+==== COPY BELOW INTO PLANTUML
+@startuml
+skinparam backgroundColor #202023
+skinparam defaultTextAlignment center
+skinparam activity {
+    BackgroundColor #2c2c2c
+    BorderColor #777777
+    FontColor #ffffff
+    FontSize 14
+    FontName Segoe UI
+    RoundCorner 20
+}
+skinparam ArrowColor #aaaaaa
+skinparam ArrowThickness 1.2
+
+:1. Filtered Lead;
+
+split
+    :2. Lead Acid Battery;
+split again
+    :3. Leadweight Quickwire;
+endsplit
+
+:4. Crystal Reduction Agent;
+
+split
+    :5. Remediated Turbofuel;
+split again
+    :6. Reduction Steel;
+endsplit
+
+:7. Sulfuric Ingot;
+
+split
+    :8. Lead Wire;
+split again
+    :9. Lead Fluid Tank;
+endsplit
+
+:10. Etched Lead Sheets;
+
+split
+    :11. Heavy Lead Frame;
+split again
+    :12. Shielded Limiter;
+endsplit
+
+:13. Shielded Waste;
+
+split
+    :14. Shielded Biowaste;
+split again
+    :15. Efficient Waste Shielding;
+endsplit
+
+:16. Quantum Breakthroughs;
+
+split
+    :17. Shielded Depot Expansion;
+split again
+    :18. Encoded Cells;
+endsplit
+
+:19. Synthetic Mercer Sphere;
+
+:20. Mercer Matrices;
+@enduml
