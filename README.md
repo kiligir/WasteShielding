@@ -18,19 +18,6 @@ If you don't want to bother with plutonium processing, you can use a bioremediat
 
 ---
 
-## MAM Tree Details
-
-
-
-<p align="center">
-  <img alt="Lead Utilization" src="https://i.imgur.com/WArLZpZ.png" />
-  <br />
-  <img src="https://i.imgur.com/mSHXdbv.png" />
-</p>
-
-
----
-
 ## Mod Compatibility
 
 Waste Shielding is available in the [Satisfactory Calculator Production Planner](https://satisfactory-calculator.com/en/planners/production). Navigate to the mods tab and select it.
