@@ -20,40 +20,14 @@ If you don't want to bother with plutonium processing, you can use a bioremediat
 
 ## MAM Tree Details
 
-<details>
-<summary>Click to expand</summary>
 
-The **Lead Utilization** research tree in the MAM is available after Lead Refinement is unlocked in the HUB. It contains twenty (20) nodes. Branches off the spine are alternate recipes, while the spine itself is alternates for the new parts.
-
-**Highlights include:**
-1. Alternate: Filtered Lead – extracts remaining lead from sulfuric acid runoff.  
-2. Alternate: Lead Acid Battery – combines lead ore, sulfuric acid, and alumina solution.  
-3. Alternate: Leadweight Quickwire – lead + caterium + water → quickwire.  
-4. Alternate: Crystal Reduction Agent – coal + silica → reduction agent.  
-5. Alternate: Remediated Turbofuel – reduction agent + biofuel → turbofuel.  
-6. Alternate: Reduction Steel – reduction agent → steel ingots.  
-7. Alternate: Sulfuric Ingot – sulfur + reduction agent → lead ingots.  
-8. Alternate: Lead Wire – lead ingots → wire.  
-9. Alternate: Lead Fluid Tank – lead ingots → fluid canisters.  
-10. Alternate: Etched Lead Sheets – lead + nitric acid → sheets.  
-11. Alternate: Heavy Lead Frame – lead sheets + modular frames.  
-12. Alternate: Shielded Limiter – lead sheets + quickwire → AI limiters.  
-13. Shielded Waste – lead sheets + plutonium waste → inert waste.  
-14. Alternate: Shielded Biowaste – shield biowaste like reactor waste.  
-15. Alternate: Efficient Waste Shielding – uranium + plutonium waste shielding.  
-16. Quantum Breakthroughs – turn shielded waste into Mercer Spheres.  
-17. Shielded Depot Expansion – expands the Dimensional Depot.  
-18. Alternate: Encoded Cells – lead + copper powder + dark matter crystals → singularity cells.  
-19. Synthetic Mercer Sphere – quantum encoding → Mercer Spheres.  
-20. Mercer Matrices – Mercer Spheres → Alien Power Matrices.  
 
 <p align="center">
   <img alt="Lead Utilization" src="https://i.imgur.com/WArLZpZ.png" />
   <br />
-  <img src="https://i.imgur.com/ua0l3B2.png" />
+  <img src="https://i.imgur.com/mSHXdbv.png" />
 </p>
 
-</details>
 
 ---
 
